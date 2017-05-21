@@ -1,0 +1,14 @@
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\bin\Debug\XamarinFormsTizen.dll
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\bin\Debug\XamarinFormsTizen.pdb
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\obj\Debug\XamarinFormsTizen.csprojResolveAssemblyReference.cache
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\obj\Debug\XamarinFormsTizen.dll
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\obj\Debug\XamarinFormsTizen.pdb
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\obj\Debug\XamarinFormsTizen.Views.MainPage.xaml.g.cs

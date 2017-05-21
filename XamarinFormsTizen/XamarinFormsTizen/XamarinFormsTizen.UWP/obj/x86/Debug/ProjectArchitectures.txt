@@ -1,0 +1,2 @@
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen.UWP\XamarinFormsTizen.UWP.csproj;x86
+C:\Users\nayde\Documents\Projetos\Nayden Luiz Projetos\JoinCommunity2017XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen\XamarinFormsTizen.csproj;neutral
